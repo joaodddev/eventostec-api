@@ -18,7 +18,7 @@ API REST completa para gerenciamento de eventos técnicos, desenvolvida com Spri
 
 ## 🛠️ Tecnologias
 
-- **Java 17** - Linguagem principal
+- **Java 21** - Linguagem principal
 - **Spring Boot 3.1.5** - Framework
 - **Spring Security** - Autenticação e autorização
 - **JWT** - Tokens de acesso
@@ -26,17 +26,15 @@ API REST completa para gerenciamento de eventos técnicos, desenvolvida com Spri
 - **PostgreSQL** - Banco de dados
 - **Hibernate** - ORM
 - **Maven** - Gerenciador de dependências
-- **Docker** - Containerização
 - **Swagger/OpenAPI** - Documentação
 
 ## 🚀 Como executar
 
 ### Pré-requisitos
 
-- Java 17+
+- Java 21+
 - Maven
 - PostgreSQL 15+
-- Docker (opcional)
 
 ## 👨‍💻 Autor
 
