@@ -1,10 +1,8 @@
 # 🎫 EventosTec API
 
-![Java Version](https://img.shields.io/badge/Java-17-blue)
+![Java Version](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
-![Docker](https://img.shields.io/badge/Docker-24.0-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 API REST completa para gerenciamento de eventos técnicos, desenvolvida com Spring Boot e boas práticas de mercado.
 
